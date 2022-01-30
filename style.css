@@ -1,0 +1,27 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #E5E5E5;
+}
+
+#main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.content, .result-content {
+  margin: 20px;
+}
+
+#result-container {
+  background-color: greenyellow;
+}
+
+#shape-container, #result-code {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+  
+  
